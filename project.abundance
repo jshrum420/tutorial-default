@@ -42,7 +42,8 @@
         },
         {
           "name": "height",
-          "ioValue": 100
+          "ioValue": 100,
+          "currentEquation": "100"
         }
       ]
     }
@@ -52,6 +53,11 @@
       "ap2Name": "geometry",
       "ap1ID": "id-4",
       "ap2ID": "id-7"
+    },
+    {
+      "ap2Name": "number or geometry",
+      "ap1ID": "id-7",
+      "ap2ID": "id-2"
     }
   ],
   "unitsKey": "MM",
